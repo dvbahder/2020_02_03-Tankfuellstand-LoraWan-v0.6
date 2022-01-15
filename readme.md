@@ -7,7 +7,7 @@ DS18B20 Nr.1 - Heizung Vorlauf
 DS18B20 Nr.2 - Heizung Rücklauf   
 
 Das Projekt soll den Bau eines Fpllstandssensors ermöglichen, der in einen Heizöltank von oben eingeschraubt wird (in einem der Blinddeckel).
-Die gewonnen Daten (Füllhühe, Temperatur...) können abgelesen werden um zu vermeiden, dass der Tank komplett leerläuft.
+Die gewonnen Daten (Füllhühe, Temperatur...) können abgelesen werden, um zu vermeiden, dass der Tank komplett leerläuft.
 
 Das aktuelle Projekt soll die Anbindung per LoRaWAN ermöglichen.
 - es muss ein LoRaWAN-Gateway in Reichweite sein
